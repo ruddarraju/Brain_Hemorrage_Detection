@@ -85,7 +85,4 @@ python main.py
 
 ---
 
-## ⚠️ Disclaimer
 
-This project is developed for **research and educational purposes only**.
-It should not be used as a substitute for professional medical diagnosis.
