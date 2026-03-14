@@ -8,7 +8,8 @@ The model achieved an **accuracy of 98.9%**, demonstrating the potential of comb
 
 ---
 ## Demo Images
-![WhatsApp Image 2024-07-15 at 10 40 33 PM]([https://github.com/user-attachments/assets/97a17eb2-28a9-409a-8dd3-c408fa612f64](https://github.com/ruddarraju/Brain_Hemorrage_Detection/blob/main/ai_bilstm_densenet_brain_hemmorage.png))
+!
+((https://github.com/ruddarraju/Brain_Hemorrage_Detection/blob/main/ai_bilstm_densenet_brain_hemmorage.png))
 
 
 ## 🔬 Project Motivation
