@@ -21,6 +21,8 @@ This project aims to build an **AI-assisted diagnostic tool** that can:
 
 ---
 
+![Project MOM](https://raw.githubusercontent.com/ruddarraju/Brain_Hemorrage_Detection/main/ai_bilstm_densenet_brain_hemmorage.png)
+
 ## ⚙️ How the System Works
 
 1. **CT Scan Image Input**
