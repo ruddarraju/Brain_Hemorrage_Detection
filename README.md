@@ -45,7 +45,7 @@ This project aims to build an **AI-assisted diagnostic tool** that can:
 1. Clone the repository
 
 ```
-git clone https://github.com/abhilash/brain-hemorrhage-detection.git
+git clone https://github.com/ruddarraju/brain-hemorrhage-detection.git
 ```
 
 2. Install dependencies
