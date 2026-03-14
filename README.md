@@ -7,9 +7,6 @@ Our system combines **deep learning (BiLSTM)** with **quantum-inspired optimizat
 The model achieved an **accuracy of 98.9%**, demonstrating the potential of combining advanced AI architectures with optimization techniques for medical diagnostic support.
 
 ---
-## Demo Images
-!
-((https://github.com/ruddarraju/Brain_Hemorrage_Detection/blob/main/ai_bilstm_densenet_brain_hemmorage.png))
 
 
 ## 🔬 Project Motivation
@@ -24,6 +21,8 @@ This project aims to build an **AI-assisted diagnostic tool** that can:
 * Explore the potential of **quantum-inspired AI techniques in healthcare**
 
 ---
+
+## Demo image
 
 ![Project MOM](https://raw.githubusercontent.com/ruddarraju/Brain_Hemorrage_Detection/main/ai_bilstm_densenet_brain_hemmorage.png)
 
